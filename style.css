@@ -5,6 +5,7 @@
 }
 body{
     background-color: green;
+    height: 200vh;
 }
 .form-container{
     display: flex;
@@ -21,7 +22,7 @@ body{
     background-color: rgba(225, 225, 225, 0.4);
     padding: 30px;
     width: 45%;
-    height: 600px;
+    height: 1000px;
     margin-left: 350px;
     border-radius: 5px;
     
@@ -62,4 +63,15 @@ h3{
     border: 0;
     background-color: white;
     padding: 20px;
+}
+.radio-box{
+    display: flex;
+    gap: 30px;
+}
+.text-box{
+    resize: none;
+    height: 80%;
+    width: 85%;
+    outline: 0;
+    border: 0;
 }
