@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+body{
     background-color: green;
 }
 .form-container{
@@ -30,6 +32,8 @@ input{
     border-radius: 20px;
     outline: 0;
     border: 0;
+    background-color: white;
+    padding: 20px;
 }
 .btn1{
     padding: 20px;
@@ -38,8 +42,13 @@ input{
     border: 0;
     position: relative;
     left: -200px;
+    background-color: white;
 }
-.text1{
+.btn1:hover{
+    background-color: green;
+    color: white;
+}
+h3{
     position: relative;
     left: -200px;
     font-size: 30px;
