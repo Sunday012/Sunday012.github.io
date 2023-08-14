@@ -47,7 +47,7 @@ input{
     width: 200px;
 }
 .btn1:hover{
-    background-color: green;
+    background-color: rgba(48, 48, 233, 0.575);
     color: white;
 }
 h3{
@@ -131,7 +131,7 @@ h3{
         width: 100px;
     }
     .btn1:hover{
-        background-color: green;
+        background-color: rgba(48, 48, 233, 0.575);
         color: white;
     }
     h2{
@@ -205,7 +205,7 @@ h3{
         width: 100px;
     }
     .btn1:hover{
-        background-color: green;
+        background-color: rgba(48, 48, 233, 0.575);
         color: white;
     }
     h2{
